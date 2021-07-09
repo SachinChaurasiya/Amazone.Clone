@@ -1,0 +1,25 @@
+.heading_main{
+    width: 60%;
+    padding:15px;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 0px 0px 250px;
+    background-color:rgb(23, 207, 173);
+    height: auto;
+}
+.Second-heading{
+    margin: 0px 250px 0px 250px;
+    margin-top: 20px;
+    background-color:Yellow;
+}
+.Second-heading h1{
+    text-align: center;
+}
+ 
+
+.cards{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 150px;
+    line-height:5
+}
